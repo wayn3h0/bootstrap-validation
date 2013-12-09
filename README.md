@@ -1,1 +1,1 @@
-#jQuery Validation Plugin for Bootstrap
+#jQuery Validation Plugin for [Bootstrap](http://getbootstrap.com)
