@@ -27,4 +27,4 @@
     data-compare-message="Your password mismatched!">
 
 ### Javascript
-	$('.form').validation()
+	$('form').validation()
